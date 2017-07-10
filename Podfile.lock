@@ -1,0 +1,15 @@
+PODS:
+  - RNCryptor (5.0.1)
+  - SwiftLint (0.19.0)
+
+DEPENDENCIES:
+  - RNCryptor (~> 5.0)
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  RNCryptor: 2e352a488779d1a9184ab629be22a7c5bc84acb5
+  SwiftLint: 3537a05b34060e78e7510f04fb7537d738247803
+
+PODFILE CHECKSUM: a3a4c45692ec22ec0c0930f65f0a9e39a16469ff
+
+COCOAPODS: 1.2.1
